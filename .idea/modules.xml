@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/compostie-strategy/compostie-strategy.iml" filepath="$PROJECT_DIR$/compostie-strategy/compostie-strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory-method-encoder/factory-method.iml" filepath="$PROJECT_DIR$/factory-method-encoder/factory-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns-php.iml" filepath="$PROJECT_DIR$/patterns-php.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prototype-civilization/prototype-civilization.iml" filepath="$PROJECT_DIR$/prototype-civilization/prototype-civilization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy-preferences/strategy-preferences.iml" filepath="$PROJECT_DIR$/strategy-preferences/strategy-preferences.iml" />
+    </modules>
+  </component>
+</project>
