@@ -11,7 +11,7 @@ require_once("EarthForest.php");
 require_once("EarthPlains.php");
 
 $factory = new TerrainFactory(
-    new EarthSea(),
+    new EarthSea(-1),
     new EarthForest(),
     new EarthPlains()
 );
