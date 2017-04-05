@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/compostie-strategy/compostie-strategy.iml" filepath="$PROJECT_DIR$/compostie-strategy/compostie-strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencyinjection-appointment/dependencyinjection-appointment.iml" filepath="$PROJECT_DIR$/dependencyinjection-appointment/dependencyinjection-appointment.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory-method-encoder/factory-method-encoder.iml" filepath="$PROJECT_DIR$/factory-method-encoder/factory-method-encoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/patterns-php.iml" filepath="$PROJECT_DIR$/patterns-php.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototype-civilization/prototype-civilization.iml" filepath="$PROJECT_DIR$/prototype-civilization/prototype-civilization.iml" />
