@@ -4,10 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/composite-units/composite-units.iml" filepath="$PROJECT_DIR$/composite-units/composite-units.iml" />
       <module fileurl="file://$PROJECT_DIR$/compostie-strategy/compostie-strategy.iml" filepath="$PROJECT_DIR$/compostie-strategy/compostie-strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator-web-request/decorator-web-request.iml" filepath="$PROJECT_DIR$/decorator-web-request/decorator-web-request.iml" />
       <module fileurl="file://$PROJECT_DIR$/dependencyinjection-appointment/dependencyinjection-appointment.iml" filepath="$PROJECT_DIR$/dependencyinjection-appointment/dependencyinjection-appointment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facade-product/facade-product.iml" filepath="$PROJECT_DIR$/facade-product/facade-product.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory-method-encoder/factory-method-encoder.iml" filepath="$PROJECT_DIR$/factory-method-encoder/factory-method-encoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interpreter-marklogic/interpreter-marklogic.iml" filepath="$PROJECT_DIR$/interpreter-marklogic/interpreter-marklogic.iml" />
       <module fileurl="file://$PROJECT_DIR$/patterns-php.iml" filepath="$PROJECT_DIR$/patterns-php.iml" />
-      <module fileurl="file://$PROJECT_DIR$/prototype-civilization/prototype-civilization.iml" filepath="$PROJECT_DIR$/prototype-civilization/prototype-civilization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prototype-decorator-civilization/prototype-decorator-civilization.iml" filepath="$PROJECT_DIR$/prototype-decorator-civilization/prototype-decorator-civilization.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton-appconfig/singleton-appconfig.iml" filepath="$PROJECT_DIR$/singleton-appconfig/singleton-appconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/strategy-preferences/strategy-preferences.iml" filepath="$PROJECT_DIR$/strategy-preferences/strategy-preferences.iml" />
     </modules>
