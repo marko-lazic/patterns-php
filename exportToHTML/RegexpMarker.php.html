@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>RegexpMarker.php</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.ln { color: #606366; font-weight: normal; font-style: normal; }
+.s0 { color: rgb(204,120,50); font-weight: bold; }
+.s1 { color: rgb(169,183,198); }
+.s2 { color: rgb(98,151,85); font-style: italic; }
+.s3 { color: rgb(169,183,198); }
+.s4 { color: rgb(204,120,50); }
+.s5 { color: rgb(128,128,128); }
+.s6 { color: rgb(152,118,170); }
+.s7 { color: rgb(106,135,89); }
+.s8 { color: rgb(104,151,187); }
+.ls0 { height: 1px; border-width: 0; color: rgb(77,77,77); background-color:rgb(77,77,77)}
+</style>
+</head>
+<BODY BGCOLOR="#2b2b2b">
+<TABLE CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<TR><TD><CENTER>
+<FONT FACE="Arial, Helvetica" COLOR="#000000">
+RegexpMarker.php</FONT>
+</center></TD></TR></TABLE>
+<pre>
+<span class="s0">&lt;?php</span><span class="s1"> 
+ <hr class="ls0"></span><span class="s2">/** 
+ * Created by IntelliJ IDEA. 
+ * User: set.rs 
+ * Date: 25-Apr-17 
+ * Time: 8:07 AM 
+ */</span><span class="s1"> 
+</span><span class="s0">namespace </span><span class="s3">Strategy</span><span class="s4">;</span><span class="s1"> 
+ 
+</span><span class="s5">//require_once &quot;Marker.php&quot;;</span><span class="s1"> 
+ <hr class="ls0"></span><span class="s0">class </span><span class="s3">RegexpMarker </span><span class="s0">extends </span><span class="s3">Marker</span><span class="s1"> 
+{ 
+ 
+    </span><span class="s0">public function </span><span class="s3">mark</span><span class="s1">(</span><span class="s3">string </span><span class="s6">$response</span><span class="s1">): </span><span class="s3">bool</span><span class="s1"> 
+    { 
+        </span><span class="s0">return </span><span class="s1">(</span><span class="s3">preg_match</span><span class="s1">(</span><span class="s7">&quot;</span><span class="s6">$this</span><span class="s1">-&gt;</span><span class="s3">test</span><span class="s7">&quot;</span><span class="s4">, </span><span class="s6">$response</span><span class="s1">) === </span><span class="s8">1</span><span class="s1">)</span><span class="s4">;</span><span class="s1"> 
+    } 
+} 
+ 
+</span></pre>
+</body>
+</html>
