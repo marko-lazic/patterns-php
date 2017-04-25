@@ -12,7 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/patterns-php.iml" filepath="$PROJECT_DIR$/patterns-php.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototype-decorator-civilization/prototype-decorator-civilization.iml" filepath="$PROJECT_DIR$/prototype-decorator-civilization/prototype-decorator-civilization.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton-appconfig/singleton-appconfig.iml" filepath="$PROJECT_DIR$/singleton-appconfig/singleton-appconfig.iml" />
-      <module fileurl="file://$PROJECT_DIR$/strategy-preferences/strategy-preferences.iml" filepath="$PROJECT_DIR$/strategy-preferences/strategy-preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy-quizz/strategy-quizz.iml" filepath="$PROJECT_DIR$/strategy-quizz/strategy-quizz.iml" />
     </modules>
   </component>
 </project>
