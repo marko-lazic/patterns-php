@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/facade-product/facade-product.iml" filepath="$PROJECT_DIR$/facade-product/facade-product.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory-method-encoder/factory-method-encoder.iml" filepath="$PROJECT_DIR$/factory-method-encoder/factory-method-encoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/interpreter-marklogic/interpreter-marklogic.iml" filepath="$PROJECT_DIR$/interpreter-marklogic/interpreter-marklogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer-login/observer-login.iml" filepath="$PROJECT_DIR$/observer-login/observer-login.iml" />
       <module fileurl="file://$PROJECT_DIR$/patterns-php.iml" filepath="$PROJECT_DIR$/patterns-php.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototype-decorator-civilization/prototype-decorator-civilization.iml" filepath="$PROJECT_DIR$/prototype-decorator-civilization/prototype-decorator-civilization.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton-appconfig/singleton-appconfig.iml" filepath="$PROJECT_DIR$/singleton-appconfig/singleton-appconfig.iml" />
