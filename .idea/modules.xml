@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/command-feedback/command-feedback.iml" filepath="$PROJECT_DIR$/command-feedback/command-feedback.iml" />
       <module fileurl="file://$PROJECT_DIR$/composite-units/composite-units.iml" filepath="$PROJECT_DIR$/composite-units/composite-units.iml" />
       <module fileurl="file://$PROJECT_DIR$/compostie-strategy/compostie-strategy.iml" filepath="$PROJECT_DIR$/compostie-strategy/compostie-strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/decorator-web-request/decorator-web-request.iml" filepath="$PROJECT_DIR$/decorator-web-request/decorator-web-request.iml" />
